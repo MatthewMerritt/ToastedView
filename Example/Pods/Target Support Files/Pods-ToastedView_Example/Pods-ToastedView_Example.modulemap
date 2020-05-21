@@ -1,0 +1,6 @@
+framework module Pods_ToastedView_Example {
+  umbrella header "Pods-ToastedView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module ToastedView {
+  umbrella header "ToastedView-umbrella.h"
+
+  export *
+  module * { export * }
+}

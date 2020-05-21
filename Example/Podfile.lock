@@ -1,0 +1,16 @@
+PODS:
+  - ToastedView (0.1.0)
+
+DEPENDENCIES:
+  - ToastedView (from `../`)
+
+EXTERNAL SOURCES:
+  ToastedView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ToastedView: b17662956dd3e173e8c187f142482fddc40844cf
+
+PODFILE CHECKSUM: babfdb2ad64a1e290afff45b5c583d4584731887
+
+COCOAPODS: 1.9.1
